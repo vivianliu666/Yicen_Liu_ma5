@@ -1,0 +1,14 @@
+.cell {
+  height: 100px;
+  width: 100px;
+  border: 2px solid gray;
+  background-color: white; 
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.fillBackground {
+  background-color: black;
+}
+
+  
